@@ -1,3 +1,5 @@
+**NOTE:** This repository has been archived and incorporated into https://github.com/dylan-lang/dylan-tool.
+
 # pacman
 
 A package manager for Dylan. Find, download, install, and uninstall any version of any
